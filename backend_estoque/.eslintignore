@@ -1,0 +1,8 @@
+node_modules
+
+dist
+
+.vscode
+
+src/infra/database/migrations
+src/infra/database/seeders
